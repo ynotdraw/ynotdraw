@@ -10,7 +10,9 @@ I'm a frontend-focused Software Engineer. Despite my username being `ynotdraw`, 
 - Sass
 - Doing my best with web accessibility
 
-I enjoy talking at meetups and conferences in my limited spare time.  I spoke at EmberConf once with a mini talk and it was a blast.
+I enjoy talking at meetups and conferences in my limited spare time.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ynotdraw&show_icons=true)
 
 <!-- [![EmberConf 2018](https://img.youtube.com/vi/4fI72aZl_N8/maxresdefault.jpg)](https://www.youtube.com/embed/4fI72aZl_N8) -->
 
