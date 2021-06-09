@@ -1,29 +1,11 @@
 ### Hi there 👋, I'm Tony Ward
 
-I'm a frontend-focused Software Engineer. Despite my username being `ynotdraw`, I have absolutely zero skills drawing! It's my first and last names spelled backwards 🙃.  I enjoy the following:
+I'm a frontend-focused Software Engineer.  I enjoy:
 
-- Building design systems with cool designer folk
-- EmberJS
-- React
-- TailwindCSS
-- CSS
-- Sass
-- Web accessibility
-
-<!-- [![EmberConf 2018](https://img.youtube.com/vi/4fI72aZl_N8/maxresdefault.jpg)](https://www.youtube.com/embed/4fI72aZl_N8) -->
-
-
-<!--
-**ynotdraw/ynotdraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Building design systems with amazing designers
+- 🐹 EmberJS
+- ⚛️ React
+- 💅 CSS, TailwindCSS
+- ♿️ Web accessibility
+- 🎸 Music
+- 🎮 Video games
