@@ -2,10 +2,10 @@
 
 I'm a frontend-focused Software Engineer.  I enjoy:
 
-- 🎨 Building design systems with amazing designers
-- 🐹 EmberJS
 - ⚛️ React
-- 💅 CSS, TailwindCSS
+- 💅 CSS, Sass, and TailwindCSS
+- 🐹 EmberJS
+- 💻 Building great user experiences
+- 🎨 Building design systems
 - ♿️ Web accessibility
-- 🎸 Music
-- 🎮 Video games
+- ❤️ Helping others
