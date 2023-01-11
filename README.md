@@ -6,6 +6,6 @@ I'm a frontend-focused Software Engineer.  I enjoy:
 - 💅 Writing CSS
 - 💻 Building great user experiences
 - 🎨 Building design systems
-- ♿️ Making the web more accessible
+- ♿️ Making the web more accessible for everyone
 - 🧠 Solving problems
 - ❤️ Helping others
