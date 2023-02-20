@@ -10,4 +10,4 @@ I'm a frontend-focused Software Engineer.  I enjoy:
 - 🧠 Solving problems
 - ❤️ Helping others
 
-Currently helping to build [ember-toucan-core](https://github.com/CrowdStrike/ember-toucan-core).
+Currently helping build [ember-toucan-core](https://github.com/CrowdStrike/ember-toucan-core).
