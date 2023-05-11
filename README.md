@@ -2,7 +2,7 @@
 
 I'm a frontend-focused Software Engineer.  I enjoy:
 
-- 👨‍💻 Using frontend tech (Next.js, Ember, React)
+- 👨‍💻 Using frontend tech (Next.js, React, Ember, TailwindCSS)
 - 💅 Writing CSS
 - 💻 Building great user experiences
 - 🎨 Building design systems
@@ -10,4 +10,4 @@ I'm a frontend-focused Software Engineer.  I enjoy:
 - 🧠 Solving problems
 - ❤️ Helping others
 
-Currently helping build [ember-toucan-core](https://github.com/CrowdStrike/ember-toucan-core).
+Currently building [ember-toucan-core](https://github.com/CrowdStrike/ember-toucan-core), the Toucan Design System for CrowdStrike.
