@@ -9,5 +9,3 @@ I'm a frontend-focused Software Engineer.  I enjoy:
 - ♿️ Making the web more accessible for everyone
 - 🧠 Solving problems
 - ❤️ Helping others
-
-Currently building [ember-toucan-core](https://github.com/CrowdStrike/ember-toucan-core), the Toucan Design System for CrowdStrike.
