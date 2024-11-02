@@ -2,10 +2,10 @@
 
 I'm a frontend-focused Software Engineer.  I enjoy:
 
-- 👨‍💻 Using frontend tech (Next.js, React, Ember, TailwindCSS)
+- 👨‍💻 Using frontend tech (React, Web Components)
 - 💅 Writing CSS
 - 💻 Building great user experiences
-- 🎨 Building design systems
+- 🎨 Building Design Systems
 - ♿️ Making the web more accessible for everyone
 - 🧠 Solving problems
 - ❤️ Helping others
